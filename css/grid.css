@@ -608,6 +608,10 @@
 
 @media only screen and (min-width: 60em) {
 
+  .grid-2 {
+    display: flex;
+  }
+
   .unit-l-hidden,
   .l-0 {
     display: none;
